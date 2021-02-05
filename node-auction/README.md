@@ -8,3 +8,4 @@
 
 ` sse.js`
 
+ - Name sse > EventStream을 통해서 실시간 서버 시간을 받는 것 sse을 볼 수 있다.
